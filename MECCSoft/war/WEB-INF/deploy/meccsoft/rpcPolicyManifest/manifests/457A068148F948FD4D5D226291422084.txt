@@ -1,0 +1,2 @@
+serviceClass: meccsoft.email.EmailService
+path: 1057A34EE39D2FCAEEACFB1D7D0931AC.gwt.rpc

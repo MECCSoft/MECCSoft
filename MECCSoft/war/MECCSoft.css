@@ -1,0 +1,41 @@
+html, body, h1, h2, h3, h4, ul, li {
+}
+
+body {
+	margin:20px 0px; 
+	padding:0px;
+	text-align:center;
+}
+
+.TextAlignment {
+	vertical-align: top;
+	text-align: left;
+}
+
+.Content {
+	width:950px;
+	margin: 0px auto;
+	padding: 5px;
+	border: 1px dashed #333;
+	text-align: left;
+	background-color: whitesmoke;
+}
+
+.ScrollPanel {
+	font: 12px verdana, arial, sans-serif;
+	height:100%;
+	width:100%;
+	background-color: lightyellow;
+}
+
+.CenterText {
+	text-align: center;
+}
+.EmailResultLabel {
+	font-size: medium;
+}
+
+.ImageLink {
+	cursor:pointer;
+}
+

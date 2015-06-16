@@ -1,0 +1,29 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui" xmlns:p1="urn:import:meccsoft.client">
+	
+	<ui:style>
+
+	</ui:style>
+	<g:HTMLPanel>
+		<g:FlowPanel>
+			<g:HTML>
+				<h2>EXPERTISE IN SMALL BUSINESS SOFTWARE &amp; PROCESS DEVELOPMENT</h2>
+				<p>We work with small business owners to help them eliminate the confusion and complication of running their businesses 
+				    by providing them with software solutions.  As a result they keep more focused on their business instead of dealing 
+				    with all of the complications that go along with running it. 
+				    <br/>
+				    <br/>
+				    We can provide custom applications, database designs, training, web design and hosting, and general technology consulting.
+				    <br/>
+				    <br/>
+				    We pride ourselves in our accuracy, customer satisfaction, and reliable solutions.
+				    <br/>
+				    <br/>
+				    Feel free to request more information on your specific business requirements by completing the Contact form or calling 717-215-0618.
+				</p>
+			</g:HTML>
+			
+		</g:FlowPanel>
+	</g:HTMLPanel>
+</ui:UiBinder> 
