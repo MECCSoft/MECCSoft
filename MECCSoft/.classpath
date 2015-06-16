@@ -125,6 +125,6 @@
 			<attribute name="javadoc_location" value="file:/C:/eclipse/plugins/com.google.appengine.eclipse.sdkbundle_1.9.22/appengine-java-sdk-1.9.22/docs/javadoc/"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER/GWT27"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>

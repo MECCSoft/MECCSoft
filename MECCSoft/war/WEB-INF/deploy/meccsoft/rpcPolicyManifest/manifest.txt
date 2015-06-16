@@ -1,2 +1,3 @@
 # Module meccsoft
 # RPC service class, partial path of RPC policy file
+meccsoft.email.EmailService, 1057A34EE39D2FCAEEACFB1D7D0931AC.gwt.rpc
